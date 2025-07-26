@@ -1,7 +1,7 @@
 
 #Task 1 :
 Install Python version
-Set up python visual studio code
+Set up python in visual studio code
 Create a project directory 'sdet_preparation'
 Create a virtual environment --> python -m venv venv
 Activate the environment
