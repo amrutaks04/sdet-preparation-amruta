@@ -1,0 +1,21 @@
+[
+    {
+        "name":"amruta",
+        "email":"amruta.ks2022cse@sece.ac.in",
+        "password":"abc@123",
+        "age":"21",
+        "role":"sdet"
+    },{
+        "name":"amruta",
+        "email":"amruta.ks2022cse@sece",
+        "password":"1234",
+        "age":"21",
+        "role":"sde"
+    },{
+        "name":"amruta",
+        "email":"amruta.ks2022cse.in",
+        "password":"123",
+        "age":"21",
+        "role":"sdet"
+    }
+]
