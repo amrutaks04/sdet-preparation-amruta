@@ -1,21 +1,27 @@
 [
-    {
-        "name":"amruta",
-        "email":"amruta.ks2022cse@sece.ac.in",
-        "password":"abc@123",
-        "age":"21",
-        "role":"sdet"
-    },{
-        "name":"amruta",
-        "email":"amruta.ks2022cse@sece",
-        "password":"1234",
-        "age":"21",
-        "role":"sde"
-    },{
-        "name":"amruta",
-        "email":"amruta.ks2022cse.in",
-        "password":"123",
-        "age":"21",
-        "role":"sdet"
-    }
+   {
+      "name": "amruta",
+      "email": "amruta.ks2022cse@sece.ac.in",
+      "password": "abc@123"
+   },
+   {
+      "name": "amruta",
+      "email": "amruta.ks2022cse@sece",
+      "password": "1234"
+   },
+   {
+      "name": "amruta",
+      "email": "amruta.ks2022cse.in",
+      "password": "123456"
+   },
+   {
+      "name": "User132",
+      "password": "passw31556",
+      "email": "user132@gmail.com"
+   },
+   {
+      "name": "User772",
+      "password": "passw9464",
+      "email": "user772@gmail.com"
+   }
 ]
