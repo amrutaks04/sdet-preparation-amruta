@@ -21,6 +21,6 @@ def safe_web_request(url,timeout=3):
         print(e)
 
 
-data=safe_web_request("https//google.com")
+data=safe_web_request("https://google.com")
 if(data):
     print(data)
