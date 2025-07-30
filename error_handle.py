@@ -16,7 +16,6 @@ def safe_web_request(url,timeout=3):
         print('The request timed out')
     except requests.exceptions.JSONDecodeError:
         print("Not in JSON format")
-
     except Exception as e:
         print(e)
 
