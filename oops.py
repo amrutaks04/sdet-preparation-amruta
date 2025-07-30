@@ -1,5 +1,5 @@
 from numpy import random
-import json
+import json,re
 from json.decoder import JSONDecodeError
 
 class TestUser:
@@ -12,10 +12,10 @@ class TestUser:
             return False
         elif len(self.password)<6:
             return False
-        elif '@' not in self.email or '.' not in self.email:
+        pattern='^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$'
+        if not re.fullmatch(pattern,self.email):
             return False
-        else:
-            return True
+        return True
     @classmethod
     def random_test_user(cls):
         name="User"+str(random.randint(1,1000))

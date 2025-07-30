@@ -33,5 +33,35 @@
       "name": "User339",
       "password": "passw30032",
       "email": "user339@gmail.com"
+   },
+   {
+      "name": "User65",
+      "password": "passw28842",
+      "email": "user65@gmail.com"
+   },
+   {
+      "name": "User501",
+      "password": "passw17060",
+      "email": "user501@gmail.com"
+   },
+   {
+      "name": "User57",
+      "password": "passw27861",
+      "email": "user57@gmail.com"
+   },
+   {
+      "name": "User351",
+      "password": "passw33590",
+      "email": "user351@gmail.com"
+   },
+   {
+      "name": "User811",
+      "password": "passw5554",
+      "email": "user811@gmail.com"
+   },
+   {
+      "name": "User682",
+      "password": "passw39292",
+      "email": "user682@gmail.com"
    }
 ]
