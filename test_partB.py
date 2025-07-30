@@ -9,6 +9,6 @@ def testValid():
 def testInvalid():
     assert validate_email("abc$.vom")==False
 
-@pytest.mark.readonlt
+@pytest.mark.readonly
 def testRead():
     assert validate_email("abc123@gmail.com")
